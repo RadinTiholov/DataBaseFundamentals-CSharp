@@ -13,7 +13,13 @@ namespace Exercise_ADO.NET
             //Problems.FirstProblem(connection);
             //int id = 3;
             //Problems.SecondProblem(connection, id);
-            Problems.ThirdProblem(connection);
+            //Problems.ThirdProblem(connection);
+            //string name = Console.ReadLine();
+            //Problems.FourthProblem(connection, name);
+            //Problems.SixthProblem(connection);
+            //Problems.SeventhProblem(connection);
+            Problems.EightProblem(connection);
+
         }
        
     }

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Linq;
 using System.Text;
 
 namespace Exercise_ADO.NET
@@ -161,6 +162,127 @@ namespace Exercise_ADO.NET
                 Console.WriteLine("Smt went wrong");
             }
         }
+        internal static void FourthProblem(SqlConnection connection, string name)
+        {
+            connection.Open();
+            using (connection)
+            {
+                SqlCommand updatingtoUppperCase = new SqlCommand(@"UPDATE Towns
+                        SET Name = UPPER(Name)
+                        WHERE CountryCode = (SELECT c.Id FROM Countries AS c WHERE c.Name = @countryName)"  
+                , connection);
+                SqlParameter namePar = new SqlParameter("countryName", SqlDbType.VarChar);
 
+                namePar.Value = name;
+                updatingtoUppperCase.Parameters.Add(namePar);
+
+                int affectedRows = updatingtoUppperCase.ExecuteNonQuery();
+                if(affectedRows == 0) 
+                {
+                    Console.WriteLine("No rows were affected!");
+                    return;
+                }
+
+                SqlCommand selectingTownNamesComm = new SqlCommand(@"SELECT t.Name 
+                                  FROM Towns as t
+                                  JOIN Countries AS c ON c.Id = t.CountryCode
+                                 WHERE c.Name = @countryName"
+                , connection);
+                SqlParameter nameParForSelecting = new SqlParameter("countryName", SqlDbType.VarChar);
+                nameParForSelecting.Value = name;
+                selectingTownNamesComm.Parameters.Add(nameParForSelecting);
+                
+                SqlDataReader reader = selectingTownNamesComm.ExecuteReader();
+                using (reader)
+                {
+                    while (reader.Read())
+                    {
+                        Console.WriteLine(reader.GetString(0));
+                    }
+                }
+
+                Console.WriteLine($"{affectedRows} town names were affected.");
+            }
+        }
+        internal static void SixthProblem(SqlConnection connection)
+        {
+            connection.Open();
+            using (connection)
+            {
+                SqlCommand selectingMinionsNamesComm = new SqlCommand(@"SELECT Name FROM Minions", connection);
+
+                SqlDataReader reader = selectingMinionsNamesComm.ExecuteReader();
+                List<string> names = new List<string>();
+                using (reader)
+                {
+                    while (reader.Read())
+                    {
+                        names.Add(reader.GetString(0));
+                    }
+                }
+                for (int i = 0; i < names.Count; i++)
+                {
+                    Console.WriteLine(names[0+i]);
+                    Console.WriteLine(names[names.Count-1-i]);
+                }
+            }
+        }
+
+        internal static void SeventhProblem(SqlConnection connection)
+        {
+            int[] parameters = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+            connection.Open();
+            using (connection)
+            {
+                foreach (var parameter in parameters)
+                {
+                    SqlCommand updateAgeComm = new SqlCommand(@"UPDATE Minions SET Name = UPPER(LEFT(Name, 1)) 
+                            + SUBSTRING(Name, 2, LEN(Name)), Age += 1 
+                            WHERE Id = @Id"
+                    , connection);
+
+                    SqlParameter idParameter = new SqlParameter("@Id", SqlDbType.Int);
+                    idParameter.Value = parameter;
+                    updateAgeComm.Parameters.Add(idParameter);
+
+                    updateAgeComm.ExecuteNonQuery();
+                }
+
+                SqlCommand selectingMinionsNamesAndAgesComm = new SqlCommand(@"SELECT Name, Age FROM Minions", connection);
+
+                SqlDataReader reader = selectingMinionsNamesAndAgesComm.ExecuteReader();
+                using (reader)
+                {
+                    while (reader.Read())
+                    {
+                        Console.WriteLine($"{reader.GetString(0)} {reader.GetInt32(1)} years old.");
+                    }
+                }
+            }
+        }
+        internal static void EightProblem(SqlConnection connection)
+        {
+            int id = int.Parse(Console.ReadLine());
+            connection.Open();
+            using (connection)
+            {
+                SqlCommand updateAgeComm = new SqlCommand(@"EXEC usp_GetOlder @Id"
+                   , connection);
+
+                SqlParameter idParameter = new SqlParameter("@Id", SqlDbType.Int);
+                idParameter.Value = id;
+                updateAgeComm.Parameters.Add(idParameter);
+
+                var reader = updateAgeComm.ExecuteReader();
+                using (reader)
+                {
+                    while (reader.Read())
+                    {
+                        Console.WriteLine($"{reader.GetString(0)} - {reader.GetInt32(1)}");
+                    }
+                }
+            }
+        }
     }
 }
