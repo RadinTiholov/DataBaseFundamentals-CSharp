@@ -1,0 +1,15 @@
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.deps.json
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.json
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.dev.json
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.AssemblyReference.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CopyComplete
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.genruntimeconfig.cache

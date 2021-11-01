@@ -1,0 +1,11 @@
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.deps.json
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.runtimeconfig.json
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.runtimeconfig.dev.json
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.AssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exercises Entity Relations\P03_FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.Models.genruntimeconfig.cache
