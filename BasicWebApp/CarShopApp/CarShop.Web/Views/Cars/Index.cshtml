@@ -1,0 +1,27 @@
+﻿@using CarShop.Models
+@model List<Car>
+
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<div class="text-left">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-8 col-lg-5">
+                <h6 class="text-muted">Cars list</h6>
+                <ul class="list-group">
+                    @foreach (Car item in Model)
+                    {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <b>@item.Make @item.Model @item.Year</b>
+                        <div class="image-parent">
+                            <img src="@item.PictureURL" class="img-fluid" alt="quixote">
+                        </div>
+                    </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.deps.json
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.runtimeconfig.json
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.runtimeconfig.dev.json
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+D:\C# Practice\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.csproj.AssemblyReference.cache
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.AssemblyInfoInputs.cache
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.AssemblyInfo.cs
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.csproj.CoreCompileInputs.cache
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.csproj.CopyComplete
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\C# Practice\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.genruntimeconfig.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.deps.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.runtimeconfig.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.runtimeconfig.dev.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.csproj.AssemblyReference.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.AssemblyInfoInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.AssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.csproj.CopyComplete
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Data\obj\Debug\netcoreapp3.1\CarShop.Data.genruntimeconfig.cache

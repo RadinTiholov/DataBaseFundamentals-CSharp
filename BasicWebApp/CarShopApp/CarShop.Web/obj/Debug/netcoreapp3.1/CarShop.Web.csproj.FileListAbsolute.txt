@@ -1,0 +1,302 @@
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.exe
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.deps.json
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.runtimeconfig.json
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.runtimeconfig.dev.json
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.pdb
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.Views.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.Views.pdb
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.csproj.AssemblyReference.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.AssemblyInfoInputs.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.AssemblyInfo.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.csproj.CoreCompileInputs.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorAssemblyInfo.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorAssemblyInfo.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.Web.StaticWebAssets.Manifest.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.Web.StaticWebAssets.xml
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.Web.styles.css
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.TagHelpers.input.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.TagHelpers.output.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorCoreGenerate.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorTargetAssemblyInfo.cache
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorTargetAssemblyInfo.cs
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.Views.pdb
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.csproj.CopyComplete
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.dll
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.pdb
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.genruntimeconfig.cache
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# Practice\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Index.cshtml.g.cs
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+D:\C# Practice\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\PetStore.Services.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.exe
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.deps.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.runtimeconfig.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.runtimeconfig.dev.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.Views.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Web.Views.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\bin\Debug\netcoreapp3.1\PetStore.Services.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.csproj.AssemblyReference.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.AssemblyInfoInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.AssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.csproj.CoreCompileInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorAssemblyInfo.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorAssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.Web.StaticWebAssets.Manifest.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\staticwebassets\CarShop.Web.StaticWebAssets.xml
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\CarShop.Web.styles.css
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.TagHelpers.input.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.TagHelpers.output.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorCoreGenerate.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Index.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorTargetAssemblyInfo.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.RazorTargetAssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.Views.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.csproj.CopyComplete
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.genruntimeconfig.cache

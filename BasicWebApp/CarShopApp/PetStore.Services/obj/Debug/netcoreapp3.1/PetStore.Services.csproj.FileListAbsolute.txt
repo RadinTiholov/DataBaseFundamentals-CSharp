@@ -1,0 +1,28 @@
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\PetStore.Services.deps.json
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\PetStore.Services.pdb
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\C# Practice\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.csproj.AssemblyReference.cache
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.AssemblyInfoInputs.cache
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.AssemblyInfo.cs
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.csproj.CoreCompileInputs.cache
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.csproj.CopyComplete
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.dll
+D:\C# Practice\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\PetStore.Services.deps.json
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\PetStore.Services.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Data.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Data.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.csproj.AssemblyReference.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.AssemblyInfoInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.AssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.csproj.CoreCompileInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.csproj.CopyComplete
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.dll
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\PetStore.Services\obj\Debug\netcoreapp3.1\PetStore.Services.pdb
