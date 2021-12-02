@@ -1,0 +1,12 @@
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.AssemblyReference.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\SoftUni\DataBaseFundamentals-C#\Exam prep 4\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
