@@ -34,6 +34,7 @@ namespace CarShop.Web
             services.AddControllersWithViews();
 
             services.AddTransient<IAllCarsService, AllCarsService>();
+            services.AddTransient<IAddCarService, AddCarService>();
             
         }
 
