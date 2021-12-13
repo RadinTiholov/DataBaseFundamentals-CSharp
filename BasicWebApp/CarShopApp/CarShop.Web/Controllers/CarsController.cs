@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CarShop.Models;
+using Microsoft.AspNetCore.Mvc;
 using PetStore.Services.Contracts;
 using System;
 using System.Collections.Generic;
@@ -11,10 +12,14 @@ namespace CarShop.Web.Controllers
     {
         private readonly IAllCarsService allCarsService;
         private readonly IAddCarService addCarService;
-        public CarsController(IAllCarsService allCarsService, IAddCarService addCarService)
+        private readonly IRemoveCarService removeCarService;
+        private readonly IFindCarById findCarById;
+        public CarsController(IAllCarsService allCarsService, IAddCarService addCarService, IRemoveCarService removeCarService, IFindCarById findCarById)
         {
             this.allCarsService = allCarsService;
             this.addCarService = addCarService;
+            this.removeCarService = removeCarService;
+            this.findCarById = findCarById;
         }
         public IActionResult Index()
         {
@@ -32,6 +37,17 @@ namespace CarShop.Web.Controllers
         {
             addCarService.Add(carMake, carModel, carYear, carPictureURL);
             return RedirectToAction("Index");
+        }
+
+        public IActionResult Remove(int id)
+        {
+            removeCarService.Remove(id);
+            return RedirectToAction("Index");
+        }
+        public IActionResult Details(int id)
+        {
+            Car car = findCarById.Find(id);
+            return View(car);
         }
     }
 }

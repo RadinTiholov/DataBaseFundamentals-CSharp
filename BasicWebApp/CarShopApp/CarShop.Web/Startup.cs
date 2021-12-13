@@ -35,6 +35,8 @@ namespace CarShop.Web
 
             services.AddTransient<IAllCarsService, AllCarsService>();
             services.AddTransient<IAddCarService, AddCarService>();
+            services.AddTransient<IRemoveCarService, RemoveCarService>();
+            services.AddTransient<IFindCarById, FindCarById>();
             
         }
 
