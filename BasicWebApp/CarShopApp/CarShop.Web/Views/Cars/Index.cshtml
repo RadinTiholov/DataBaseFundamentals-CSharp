@@ -9,19 +9,20 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-sm-8 col-lg-5">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Cars" asp-action="AddCarRedirect">Add Car</a>
+                <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="AddCarRedirect">Add Car</a>
                 <h6 class="text-muted">Cars list</h6>
                 <ul class="list-group">
                     @foreach (Car item in Model)
                     {
-                    <li class="list-group-item d-flex justify-content-between align-items-center">
-                        <b>@item.Make @item.Model @item.Year</b>
-                        <div class="image-parent">
-                            <img src="@item.PictureURL" class="img-fluid" alt="quixote">
-                            <a type="button" class="btn btn-danger btn-sm" asp-area="" asp-controller="Cars" asp-action="Remove" asp-route-id ="@item.Id">Remove</a>
-                            <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="Details" asp-route-id ="@item.Id">Details</a>
-                        </div>
-                    </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <b>@item.Make @item.Model @item.Year</b>
+                            <div class="image-parent">
+                                <img src="@item.PictureURL" class="img-fluid" alt="quixote">
+                                <a type="button" class="btn btn-danger btn-sm" asp-area="" asp-controller="Cars" asp-action="Remove" asp-route-id="@item.Id">Remove</a>
+                                <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="EditCarRedirect" asp-route-id="@item.Id">Edit</a>
+                            </div>
+                        </li>
                     }
                 </ul>
             </div>

@@ -302,3 +302,4 @@ D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\
 D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\CarShop.Web.genruntimeconfig.cache
 D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Cars\AddCarRedirect.cshtml.g.cs
 D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Cars\Details.cshtml.g.cs
+D:\SoftUni\DataBaseFundamentals-C#\BasicWebApp\CarShopApp\CarShop.Web\obj\Debug\netcoreapp3.1\Razor\Views\Cars\EditCarRedirect.cshtml.g.cs
