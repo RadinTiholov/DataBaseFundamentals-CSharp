@@ -4,7 +4,11 @@
 @{
     ViewData["Title"] = "Cars";
 }
-
+<style>
+    #buttons {
+        position:center;
+    }
+</style>
 <div class="text-left">
     <div class="container">
         <div class="row">
@@ -18,9 +22,11 @@
                             <b>@item.Make @item.Model @item.Year</b>
                             <div class="image-parent">
                                 <img src="@item.PictureURL" class="img-fluid" alt="quixote">
-                                <a type="button" class="btn btn-danger btn-sm" asp-area="" asp-controller="Cars" asp-action="Remove" asp-route-id="@item.Id">Remove</a>
-                                <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="Details" asp-route-id="@item.Id">Details</a>
-                                <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="EditCar" asp-route-id="@item.Id">Edit</a>
+                                <div id="buttons">
+                                    <a type="button" class="btn btn-danger btn-sm" asp-area="" asp-controller="Cars" asp-action="Remove" asp-route-id="@item.Id">Remove</a>
+                                    <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                    <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="EditCar" asp-route-id="@item.Id">Edit</a>
+                                </div>
                             </div>
                         </li>
                     }
