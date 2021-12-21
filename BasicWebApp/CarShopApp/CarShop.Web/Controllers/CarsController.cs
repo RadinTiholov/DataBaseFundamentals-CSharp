@@ -29,7 +29,8 @@ namespace CarShop.Web.Controllers
 
             return View(cars);
         }
-        public IActionResult AddCarRedirect()
+        [HttpGet]
+        public IActionResult AddCar()
         { 
             return View();
         }
@@ -52,16 +53,17 @@ namespace CarShop.Web.Controllers
             return View(car);
         }
 
+        [HttpGet]
+        public IActionResult EditCar(int id)
+        {
+            Car car = findCarById.Find(id);
+            return View(car);
+        }
         [HttpPost]
         public IActionResult EditCar(string carId, string carMake, string carModel, string carYear, string carPictureURL)
         {
             editCarService.Edit(carId, carMake, carModel, carYear, carPictureURL);
             return RedirectToAction("Index");
-        }
-        public IActionResult EditCarRedirect(int id)
-        {
-            Car car = findCarById.Find(id);
-            return View(car);
         }
     }
 }
