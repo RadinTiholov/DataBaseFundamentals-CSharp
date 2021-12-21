@@ -1,9 +1,37 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<style>
+    #car 
+    {
+        position: relative;
+        cursor: pointer;
+    }
+
+    #clickOnMe {
+        color: lightcoral;
+        font-size: 10px;
+    }
+</style>
 
 <div class="text-center">
+    <p id="clickOnMe">Click on the car</p>
+    <img id="car" src="https://static.vecteezy.com/system/resources/previews/001/193/929/non_2x/vintage-car-png.png" width="100" height="50">
     <h1 class="display-4">Welcome to our CarShop</h1>
+    <script>
+        car.onclick = function () {
+            let start = Date.now();
+
+            let timer = setInterval(function () {
+                let timePassed = Date.now() - start;
+
+                car.style.left = timePassed / 8 + 'px';
+
+                if (timePassed > 2000) clearInterval(timer);
+
+            }, 20);
+        }
+    </script>
     <img alt="CarImage" src="https://www.1auto.co/storage/ready_for_sales/20210914113121_photo-1552519507-da3b142c6e3d.jpg"
          width="1200" height="700">
 </div>
