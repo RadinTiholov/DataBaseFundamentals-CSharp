@@ -1,11 +1,18 @@
 ﻿@using CarShop.Models
 @model Car
-
+<style>
+    #inline {
+        display: inline-block;
+    }
+</style>
 <h1>Details</h1>
 <a type="button" class="btn btn-primary btn-lg" asp-area="" asp-controller="Cars" asp-action="Index">Back</a>
 <p>Model: <strong>@Model.Make</strong></p>
 <p>Make:<strong> @Model.Model</strong></p>
 <p>Year: <strong>@Model.Year</strong></p>
+<p id="inline">Likes: <strong>@Model.Likes</strong></p>
+<img id = "inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png" alt="Alternate Text" width="30" height="30"/>
+
 <li class="list-group-item d-flex justify-content-between align-items-center">
     <div class="image-parent">
         <img src="@Model.PictureURL" class="img-fluid" alt="quixote">

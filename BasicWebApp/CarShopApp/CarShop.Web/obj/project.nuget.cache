@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E+Nx0ZSyt2z5pDfm7CbV3w65lQ+Oii7mzTuU6xrAODkF8TnwHYXTtOtxVA8vr90Hcg0Gt43Gb+wvie5Q4+Mk5g==",
+  "dgSpecHash": "78zZou4D+O9CFsj8Nk30QbS+7ZDE8ot9BDWIsr0RN0hfvhOW5zAn1K1pfkzImyJL2jpcEScXVzJnAEf69YWGpQ==",
   "success": true,
   "projectFilePath": "D:\\SoftUni\\DataBaseFundamentals-C#\\BasicWebApp\\CarShopApp\\CarShop.Web\\CarShop.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\radit\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
@@ -36,6 +37,7 @@
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
+    "C:\\Users\\radit\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\microsoft.jquery.unobtrusive.ajax.3.2.6.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\radit\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",

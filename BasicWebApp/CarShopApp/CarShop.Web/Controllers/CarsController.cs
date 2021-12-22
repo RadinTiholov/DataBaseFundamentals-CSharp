@@ -15,13 +15,15 @@ namespace CarShop.Web.Controllers
         private readonly IRemoveCarService removeCarService;
         private readonly IFindCarById findCarById;
         private readonly IEditCarService editCarService;
-        public CarsController(IAllCarsService allCarsService, IAddCarService addCarService, IRemoveCarService removeCarService, IFindCarById findCarById, IEditCarService editCarService)
+        private readonly IAddLikeCarService addLikeCarService;
+        public CarsController(IAllCarsService allCarsService, IAddCarService addCarService, IRemoveCarService removeCarService, IFindCarById findCarById, IEditCarService editCarService, IAddLikeCarService addLikeCarService)
         {
             this.allCarsService = allCarsService;
             this.addCarService = addCarService;
             this.removeCarService = removeCarService;
             this.findCarById = findCarById;
             this.editCarService = editCarService;
+            this.addLikeCarService = addLikeCarService;
         }
         public IActionResult Index()
         {
@@ -51,6 +53,11 @@ namespace CarShop.Web.Controllers
         {
             Car car = findCarById.Find(id);
             return View(car);
+        }
+        public IActionResult Like(int id)
+        {
+            addLikeCarService.Like(id);
+            return RedirectToAction("Index");
         }
 
         [HttpGet]

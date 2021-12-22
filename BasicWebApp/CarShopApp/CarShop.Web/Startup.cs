@@ -38,6 +38,7 @@ namespace CarShop.Web
             services.AddTransient<IRemoveCarService, RemoveCarService>();
             services.AddTransient<IFindCarById, FindCarById>();
             services.AddTransient<IEditCarService, EditCarService>();
+            services.AddTransient<IAddLikeCarService, AddLikeCarService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -19,6 +19,10 @@ namespace CarShop.Models
         public string Model { get; set; }
 
         [Required]
+        [MaxLength(100)]
+        public string Owner { get; set; }
+
+        [Required]
         public int Year { get; set; }
 
         [Required]

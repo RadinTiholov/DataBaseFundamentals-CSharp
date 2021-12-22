@@ -4,6 +4,7 @@
 @{
     ViewData["Title"] = "Cars";
 }
+
 <style>
     #buttons {
         position:center;
@@ -23,10 +24,10 @@
                             <div class="image-parent">
                                 <img src="@item.PictureURL" class="img-fluid" alt="quixote">
                                 <div id="buttons">
-                                    <a type="button" class="btn btn-danger btn-sm" asp-area="" asp-controller="Cars" asp-action="Remove" asp-route-id="@item.Id">Remove</a>
+                                    <a type="button" class="btn btn-warning btn-sm" asp-area="" asp-controller="Cars" asp-action="Like" asp-route-id="@item.Id">Like</a>
                                     <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="Details" asp-route-id="@item.Id">Details</a>
                                     <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="EditCar" asp-route-id="@item.Id">Edit</a>
-                                    <a type="button" class="btn btn-warning btn-sm" asp-area="" asp-controller="" asp-action="" asp-route-id="">Like</a>
+                                    <a type="button" class="btn btn-danger btn-sm" asp-area="" asp-controller="Cars" asp-action="Remove" asp-route-id="@item.Id">Remove</a>
                                 </div>
                                 <p>Likes: @item.Likes</p>
                             </div>
