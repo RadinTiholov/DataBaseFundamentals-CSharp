@@ -24,5 +24,8 @@ namespace CarShop.Models
         [Required]
         [MaxLength(2048)]
         public string PictureURL { get; set; }
+
+        [Required]
+        public int Likes { get; set; }
     }
 }

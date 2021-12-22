@@ -28,7 +28,7 @@
                                     <a type="button" class="btn btn-info btn-sm" asp-area="" asp-controller="Cars" asp-action="EditCar" asp-route-id="@item.Id">Edit</a>
                                     <a type="button" class="btn btn-warning btn-sm" asp-area="" asp-controller="" asp-action="" asp-route-id="">Like</a>
                                 </div>
-                                <p>Likes: 0</p>
+                                <p>Likes: @item.Likes</p>
                             </div>
                         </li>
                     }

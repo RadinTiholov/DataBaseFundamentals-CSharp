@@ -13,6 +13,8 @@
     <Compile Remove="Migrations\20211221174743_addedLikes.Designer.cs" />
     <Compile Remove="Migrations\20211221175431_Initial.cs" />
     <Compile Remove="Migrations\20211221175431_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20211222185441_AddedLikesToCar.cs" />
+    <Compile Remove="Migrations\20211222185441_AddedLikesToCar.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,10 +32,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CarShop.Models\CarShop.Models.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
