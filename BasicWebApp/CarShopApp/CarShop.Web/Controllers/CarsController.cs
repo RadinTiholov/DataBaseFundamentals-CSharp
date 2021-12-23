@@ -31,6 +31,13 @@ namespace CarShop.Web.Controllers
 
             return View(cars);
         }
+        [HttpPost]
+        public IActionResult Index(string search)
+        {
+            var cars = allCarsService.Search(search);
+
+            return View(cars);
+        }
         [HttpGet]
         public IActionResult AddCar()
         { 
@@ -38,9 +45,9 @@ namespace CarShop.Web.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddCar(string carMake, string carModel, string carYear, string carPictureURL)
+        public IActionResult AddCar(string carMake, string carModel, string carYear, string carPictureURL, string carOwner)
         {
-            addCarService.Add(carMake, carModel, carYear, carPictureURL);
+            addCarService.Add(carMake, carModel, carYear, carPictureURL, carOwner);
             return RedirectToAction("Index");
         }
 
@@ -67,9 +74,9 @@ namespace CarShop.Web.Controllers
             return View(car);
         }
         [HttpPost]
-        public IActionResult EditCar(string carId, string carMake, string carModel, string carYear, string carPictureURL)
+        public IActionResult EditCar(string carId, string carMake, string carModel, string carYear, string carPictureURL, string carOwner)
         {
-            editCarService.Edit(carId, carMake, carModel, carYear, carPictureURL);
+            editCarService.Edit(carId, carMake, carModel, carYear, carPictureURL, carOwner);
             return RedirectToAction("Index");
         }
     }

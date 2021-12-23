@@ -15,14 +15,15 @@ namespace PetStore.Services
             context = new CarShopContext();
             context.Database.EnsureCreated();
         }
-        public void Add(string carMake, string carModel, string carYear, string carPictureURL)
+        public void Add(string carMake, string carModel, string carYear, string carPictureURL, string carOwner)
         {
             Car car = new Car
             {
                 Make = carMake,
                 Model = carModel,
                 Year = int.Parse(carYear),
-                PictureURL = carPictureURL
+                PictureURL = carPictureURL,
+                Owner = carOwner
             };
             context.Cars.Add(car);
             context.SaveChanges();

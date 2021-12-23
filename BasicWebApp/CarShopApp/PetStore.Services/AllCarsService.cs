@@ -18,5 +18,10 @@ namespace PetStore.Services
         {
             return context.Cars.ToList();
         }
+
+        public List<Car> Search(string searchQuery)
+        {
+            return context.Cars.Where(x => x.Model.Contains(searchQuery) || x.Make.Contains(searchQuery)).ToList();
+        }
     }
 }

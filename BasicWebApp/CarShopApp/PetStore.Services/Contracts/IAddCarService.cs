@@ -2,6 +2,6 @@
 {
     public interface IAddCarService
     {
-        void Add(string carMake, string carModel, string carYear, string carPictureURL);
+        void Add(string carMake, string carModel, string carYear, string carPictureURL, string carOwner);
     }
 }

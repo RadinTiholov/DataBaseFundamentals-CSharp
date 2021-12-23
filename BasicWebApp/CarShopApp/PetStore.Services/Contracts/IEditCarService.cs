@@ -6,6 +6,6 @@ namespace PetStore.Services.Contracts
 {
     public interface IEditCarService
     {
-        void Edit(string id, string carMake, string carModel, string carYear, string carPictureURL);
+        void Edit(string id, string carMake, string carModel, string carYear, string carPictureURL, string carOwner);
     }
 }
