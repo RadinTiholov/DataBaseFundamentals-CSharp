@@ -18,11 +18,11 @@ namespace PetStore.Services
         {
             if (id == 1)
             {
-                return context.Cars.OrderBy(x => x.Model).ToList();
+                return context.Cars.OrderBy(x => x.Make).ToList();
             }
             else if (id == 2)
             {
-                return context.Cars.OrderByDescending(x => x.Model).ToList();
+                return context.Cars.OrderByDescending(x => x.Make).ToList();
             }
             else
             {
