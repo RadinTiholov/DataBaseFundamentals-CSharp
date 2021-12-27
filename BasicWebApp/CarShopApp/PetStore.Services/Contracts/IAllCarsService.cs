@@ -7,7 +7,7 @@ namespace PetStore.Services.Contracts
 {
     public interface IAllCarsService
     {
-        List<Car> All();
+        List<Car> All(int id);
 
         List<Car> Search(string searchQuery);
     }

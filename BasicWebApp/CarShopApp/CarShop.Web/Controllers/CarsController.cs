@@ -25,9 +25,9 @@ namespace CarShop.Web.Controllers
             this.editCarService = editCarService;
             this.addLikeCarService = addLikeCarService;
         }
-        public IActionResult Index()
+        public IActionResult Index(int id)
         {
-            var cars = allCarsService.All();
+            var cars = allCarsService.All(id);
 
             return View(cars);
         }

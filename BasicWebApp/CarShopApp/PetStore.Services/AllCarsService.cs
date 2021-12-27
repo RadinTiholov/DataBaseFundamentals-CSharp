@@ -14,9 +14,20 @@ namespace PetStore.Services
             context = new CarShopContext();
             context.Database.EnsureCreated();
         }
-        public List<Car> All()
+        public List<Car> All(int id)
         {
-            return context.Cars.ToList();
+            if (id == 1)
+            {
+                return context.Cars.OrderBy(x => x.Model).ToList();
+            }
+            else if (id == 2)
+            {
+                return context.Cars.OrderByDescending(x => x.Model).ToList();
+            }
+            else
+            {
+                return context.Cars.ToList();
+            }
         }
 
         public List<Car> Search(string searchQuery)
